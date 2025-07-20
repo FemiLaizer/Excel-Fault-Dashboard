@@ -3,7 +3,7 @@
 ## The following were done using formulas like, SUMIF, COUNTIF, VLOOKUP, XLOOKUP etc
 - Showing messy data cleand and formatted
 - Formula producing errors corrected
-- Pivot Tables
+- Pivot Tables, Charts, Slicers
 - Executuve Dashboard, Visualization and Presentation
 
 I analyzed fault categories, the number of days the complaint has been pending with each team
